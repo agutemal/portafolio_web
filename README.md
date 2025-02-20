@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+
+**Paleta de colores
+ #f7e8f8  #9a25b2  #ad6fb9  #6d3a74  #904a9e  #d67ce0  #733488  #a09ca0
